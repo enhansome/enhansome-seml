@@ -1,0 +1,205 @@
+{
+  "items": [
+    {
+      "description": "Tooling can make your life easier.\nWe only share open source tools, or commercial platforms that offer substantial free packages for research.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PyTorch Lightning",
+          "description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T12:04:16Z",
+            "owner": "Lightning-AI",
+            "repo": "pytorch-lightning",
+            "stars": 31288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Label Studio",
+          "description": "A multi-type data labeling and annotation tool with standardized output format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:15:52Z",
+            "owner": "HumanSignal",
+            "repo": "label-studio",
+            "stars": 28038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Great Expectations",
+          "description": "Data validation and testing with integration in pipelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:10:14Z",
+            "owner": "fivetran",
+            "repo": "great_expectations",
+            "stars": 11708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seldon Core",
+          "description": "An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models on Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-23T11:39:54Z",
+            "owner": "SeldonIO",
+            "repo": "seldon-core",
+            "stars": 4770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alibi Detect",
+          "description": "Python library focused on outlier, adversarial and drift detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-11T16:35:15Z",
+            "owner": "SeldonIO",
+            "repo": "alibi-detect",
+            "stars": 2546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tensorflow Data Validation (TFDV)",
+          "description": "Library for exploring and validating machine learning data. Similar to Great Expectations, but for Tensorflow data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-11T17:34:40Z",
+            "owner": "tensorflow",
+            "repo": "data-validation",
+            "stars": 783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neuraxle",
+          "description": "Sklearn-like framework for hyperparameter tuning and AutoML in deep learning projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-20T21:38:30Z",
+            "owner": "Neuraxio",
+            "repo": "Neuraxle",
+            "stars": 614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Archai",
+          "description": "Neural architecture search.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-24T03:14:04Z",
+            "owner": "microsoft",
+            "repo": "archai",
+            "stars": 485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robustness Metrics",
+          "description": "Lightweight modules to evaluate the robustness of classification models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-07T23:44:42Z",
+            "owner": "google-research",
+            "repo": "robustness_metrics",
+            "stars": 474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Model Card Toolkit",
+          "description": "Streamlines and automates the generation of model cards; for model documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-07-26T12:05:00Z",
+            "owner": "tensorflow",
+            "repo": "model-card-toolkit",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiFT",
+          "description": "Linkedin fairness toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-12-19T11:35:55Z",
+            "owner": "linkedin",
+            "repo": "LiFT",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HParams",
+          "description": "A thoughtful approach to configuration management for machine learning projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-18T18:40:15Z",
+            "owner": "PetrochukM",
+            "repo": "HParams",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REVISE: REvealing VIsual biaSEs",
+          "description": "Automatically detect bias in visual data sets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-08-19T15:22:00Z",
+            "owner": "princetonvisualai",
+            "repo": "revise-tool",
+            "stars": 110
+          }
+        }
+      ],
+      "title": "Tooling"
+    },
+    {
+      "description": "Contributions welcomed! Read the contribution guidelines first",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:20:52.723Z",
+    "original_repository": "SE-ML/awesome-seml",
+    "original_repository_sha": "4206c9e6c39bef01f40b33d99c970fccb83b365b",
+    "enhanced_repository": "enhansome/enhansome-seml",
+    "enhanced_repository_description": null,
+    "title": "Awesome Software Engineering for Machine Learning with stars"
+  }
+}
