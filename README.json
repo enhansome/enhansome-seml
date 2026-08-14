@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T17:54:35Z",
+            "last_commit": "2026-08-14T15:21:23Z",
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28049
+            "stars": 28058
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T14:45:30Z",
+            "last_commit": "2026-08-14T16:22:38Z",
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11710
+            "stars": 11709
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2023-07-26T12:05:00Z",
             "owner": "tensorflow",
             "repo": "model-card-toolkit",
-            "stars": 453
+            "stars": 452
           }
         },
         {
@@ -195,7 +195,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:42:04.029Z",
+    "last_updated": "2026-08-14T18:35:56.212Z",
     "original_repository": "SE-ML/awesome-seml",
     "original_repository_sha": "4206c9e6c39bef01f40b33d99c970fccb83b365b",
     "enhanced_repository": "enhansome/enhansome-seml",
