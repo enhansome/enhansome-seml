@@ -14,7 +14,7 @@
             "last_commit": "2026-08-09T12:04:16Z",
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31287
+            "stars": 31285
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T15:21:23Z",
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28058
+            "stars": 28066
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:22:38Z",
+            "last_commit": "2026-08-14T22:04:19Z",
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11709
+            "stars": 11713
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-03-23T11:39:54Z",
             "owner": "SeldonIO",
             "repo": "seldon-core",
-            "stars": 4770
+            "stars": 4771
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2025-12-11T16:35:15Z",
             "owner": "SeldonIO",
             "repo": "alibi-detect",
-            "stars": 2546
+            "stars": 2547
           }
         },
         {
@@ -81,10 +81,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-11T17:34:40Z",
+            "last_commit": "2026-08-14T20:40:58Z",
             "owner": "tensorflow",
             "repo": "data-validation",
-            "stars": 783
+            "stars": 784
           }
         },
         {
@@ -195,7 +195,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:35:56.212Z",
+    "last_updated": "2026-08-15T18:01:02.984Z",
     "original_repository": "SE-ML/awesome-seml",
     "original_repository_sha": "4206c9e6c39bef01f40b33d99c970fccb83b365b",
     "enhanced_repository": "enhansome/enhansome-seml",
