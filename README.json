@@ -14,7 +14,7 @@
             "last_commit": "2026-08-09T12:04:16Z",
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31285
+            "stars": 31287
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T15:21:23Z",
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28066
+            "stars": 28067
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-03-23T11:39:54Z",
             "owner": "SeldonIO",
             "repo": "seldon-core",
-            "stars": 4771
+            "stars": 4772
           }
         },
         {
@@ -195,7 +195,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T18:01:02.984Z",
+    "last_updated": "2026-08-16T18:00:46.130Z",
     "original_repository": "SE-ML/awesome-seml",
     "original_repository_sha": "4206c9e6c39bef01f40b33d99c970fccb83b365b",
     "enhanced_repository": "enhansome/enhansome-seml",
