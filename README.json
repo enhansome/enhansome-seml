@@ -14,7 +14,7 @@
             "last_commit": "2026-08-09T12:04:16Z",
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31287
+            "stars": 31290
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T15:21:23Z",
+            "last_commit": "2026-08-17T16:44:40Z",
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28067
+            "stars": 28079
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T22:04:19Z",
+            "last_commit": "2026-08-17T10:06:09Z",
             "owner": "fivetran",
             "repo": "great_expectations",
             "stars": 11713
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-14T20:40:58Z",
             "owner": "tensorflow",
             "repo": "data-validation",
-            "stars": 784
+            "stars": 783
           }
         },
         {
@@ -195,7 +195,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T18:00:46.130Z",
+    "last_updated": "2026-08-17T18:16:49.272Z",
     "original_repository": "SE-ML/awesome-seml",
     "original_repository_sha": "4206c9e6c39bef01f40b33d99c970fccb83b365b",
     "enhanced_repository": "enhansome/enhansome-seml",
