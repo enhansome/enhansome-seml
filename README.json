@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178626720,
             "language": "Python",
             "last_commit": "2026-08-09T12:04:16Z",
             "owner": "Lightning-AI",
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192640529,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T18:08:36Z",
+            "last_commit": "2026-08-19T09:05:08Z",
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28081
+            "stars": 28085
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103071520,
             "language": "Python",
-            "last_commit": "2026-08-18T15:23:19Z",
+            "last_commit": "2026-08-19T12:53:45Z",
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11717
+            "stars": 11718
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114898943,
             "language": "Go",
             "last_commit": "2026-03-23T11:39:54Z",
             "owner": "SeldonIO",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213390927,
             "language": "Jupyter Notebook",
             "last_commit": "2025-12-11T16:35:15Z",
             "owner": "SeldonIO",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139463182,
             "language": "Python",
             "last_commit": "2026-08-14T20:40:58Z",
             "owner": "tensorflow",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 177868131,
             "language": "Python",
             "last_commit": "2026-02-20T21:38:30Z",
             "owner": "Neuraxio",
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245036506,
             "language": "Python",
             "last_commit": "2025-11-24T03:14:04Z",
             "owner": "microsoft",
             "repo": "archai",
-            "stars": 485
+            "stars": 484
           }
         },
         {
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292792659,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-07T23:44:42Z",
             "owner": "google-research",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 282271871,
             "language": "Python",
             "last_commit": "2023-07-26T12:05:00Z",
             "owner": "tensorflow",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 276493242,
             "language": "Scala",
             "last_commit": "2025-12-19T11:35:55Z",
             "owner": "linkedin",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210755063,
             "language": "Python",
             "last_commit": "2024-11-18T18:40:15Z",
             "owner": "PetrochukM",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 256240984,
             "language": "Jupyter Notebook",
             "last_commit": "2022-08-19T15:22:00Z",
             "owner": "princetonvisualai",
@@ -187,16 +200,12 @@
         }
       ],
       "title": "Tooling"
-    },
-    {
-      "description": "Contributions welcomed! Read the contribution guidelines first",
-      "items": [],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:15:45.056Z",
+    "last_updated": "2026-08-19T12:57:17.728Z",
     "original_repository": "SE-ML/awesome-seml",
+    "original_repository_id": 236980532,
     "original_repository_sha": "4206c9e6c39bef01f40b33d99c970fccb83b365b",
     "enhanced_repository": "enhansome/enhansome-seml",
     "enhanced_repository_description": null,
