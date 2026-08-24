@@ -15,7 +15,7 @@
             "last_commit": "2026-08-09T12:04:16Z",
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31300
+            "stars": 31305
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 192640529,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T19:12:19Z",
+            "last_commit": "2026-08-24T06:13:58Z",
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28113
+            "stars": 28122
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-21T14:43:46Z",
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11730
+            "stars": 11732
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-03-23T11:39:54Z",
             "owner": "SeldonIO",
             "repo": "seldon-core",
-            "stars": 4776
+            "stars": 4778
           }
         },
         {
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 245036506,
             "language": "Python",
-            "last_commit": "2025-11-24T03:14:04Z",
+            "last_commit": "2026-08-24T11:22:14Z",
             "owner": "microsoft",
             "repo": "archai",
             "stars": 485
@@ -203,7 +203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:01:18.905Z",
+    "last_updated": "2026-08-24T14:09:56.096Z",
     "original_repository": "SE-ML/awesome-seml",
     "original_repository_id": 236980532,
     "original_repository_sha": "4206c9e6c39bef01f40b33d99c970fccb83b365b",
