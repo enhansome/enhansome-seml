@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T16:59:45Z",
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31311
+            "stars": 31313
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 192640529,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:31:50Z",
+            "last_commit": "2026-08-27T19:47:01Z",
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28157
+            "stars": 28159
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 103071520,
             "language": "Python",
-            "last_commit": "2026-08-27T11:09:13Z",
+            "last_commit": "2026-08-28T01:24:18Z",
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11742
+            "stars": 11743
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-03-23T11:39:54Z",
             "owner": "SeldonIO",
             "repo": "seldon-core",
-            "stars": 4778
+            "stars": 4779
           }
         },
         {
@@ -203,7 +203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:02:25.716Z",
+    "last_updated": "2026-08-28T01:47:25.228Z",
     "original_repository_info": {
       "archived": false,
       "id": 236980532,
