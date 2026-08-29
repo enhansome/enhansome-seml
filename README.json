@@ -15,8 +15,9 @@
             "last_commit": "2026-08-25T16:59:45Z",
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31313
-          }
+            "stars": 31315
+          },
+          "first_seen": "2026-08-29T01:11:19.407Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 192640529,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:47:01Z",
+            "last_commit": "2026-08-28T19:16:44Z",
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28159
-          }
+            "stars": 28165
+          },
+          "first_seen": "2026-08-29T01:11:19.407Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 103071520,
             "language": "Python",
-            "last_commit": "2026-08-28T01:24:18Z",
+            "last_commit": "2026-08-28T17:08:33Z",
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11743
-          }
+            "stars": 11745
+          },
+          "first_seen": "2026-08-29T01:11:19.407Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "SeldonIO",
             "repo": "seldon-core",
             "stars": 4779
-          }
+          },
+          "first_seen": "2026-08-29T01:11:19.407Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "SeldonIO",
             "repo": "alibi-detect",
             "stars": 2548
-          }
+          },
+          "first_seen": "2026-08-29T01:11:19.407Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-08-14T20:40:58Z",
             "owner": "tensorflow",
             "repo": "data-validation",
-            "stars": 782
-          }
+            "stars": 783
+          },
+          "first_seen": "2026-08-29T01:11:19.407Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "Neuraxio",
             "repo": "Neuraxle",
             "stars": 613
-          }
+          },
+          "first_seen": "2026-08-29T01:11:19.407Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "microsoft",
             "repo": "archai",
             "stars": 486
-          }
+          },
+          "first_seen": "2026-08-29T01:11:19.407Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "google-research",
             "repo": "robustness_metrics",
             "stars": 473
-          }
+          },
+          "first_seen": "2026-08-29T01:11:19.407Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "tensorflow",
             "repo": "model-card-toolkit",
             "stars": 452
-          }
+          },
+          "first_seen": "2026-08-29T01:11:19.407Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "linkedin",
             "repo": "LiFT",
             "stars": 173
-          }
+          },
+          "first_seen": "2026-08-29T01:11:19.407Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "PetrochukM",
             "repo": "HParams",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-29T01:11:19.407Z"
         },
         {
           "node_type": "item",
@@ -196,14 +208,15 @@
             "owner": "princetonvisualai",
             "repo": "revise-tool",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-29T01:11:19.407Z"
         }
       ],
       "title": "Tooling"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:47:25.228Z",
+    "last_updated": "2026-08-29T01:11:19.407Z",
     "original_repository_info": {
       "archived": false,
       "id": 236980532,
