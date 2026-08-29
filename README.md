@@ -114,7 +114,7 @@ Tooling can make your life easier.
 We only share open source tools, or commercial platforms that offer substantial free packages for research.
 
 * [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) ⭐ 31,315 | 🐛 1,079 | 🌐 Python | 📅 2026-08-25 - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
-* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,165 | 🐛 927 | 🌐 TypeScript | 📅 2026-08-28 - A multi-type data labeling and annotation tool with standardized output format.
+* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,164 | 🐛 927 | 🌐 TypeScript | 📅 2026-08-28 - A multi-type data labeling and annotation tool with standardized output format.
 * [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,745 | 🐛 31 | 🌐 Python | 📅 2026-08-28 - Data validation and testing with integration in pipelines.
 * [Seldon Core](https://github.com/SeldonIO/seldon-core) ⭐ 4,779 | 🐛 396 | 🌐 Go | 📅 2026-03-23 - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models on Kubernetes.
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,548 | 🐛 146 | 🌐 Jupyter Notebook | 📅 2025-12-11 - Python library focused on outlier, adversarial and drift detection.

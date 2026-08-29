@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+            "homepage": "https://lightning.ai/pytorch-lightning/?utm_source=ptl_readme&utm_medium=referral&utm_campaign=ptl_readme",
             "id": 178626720,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T16:59:45Z",
+            "open_issues": 1079,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31315
+            "stars": 31315,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "data-science",
+              "deep-learning",
+              "machine-learning",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-29T01:11:19.407Z"
         },
@@ -26,12 +39,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+            "homepage": "https://labelstud.io",
             "id": 192640529,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:16:44Z",
+            "open_issues": 927,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28165
+            "stars": 28164,
+            "topics": [
+              "annotation",
+              "annotation-tool",
+              "annotations",
+              "boundingbox",
+              "computer-vision",
+              "data-labeling",
+              "dataset",
+              "datasets",
+              "deep-learning",
+              "image-annotation",
+              "image-classification",
+              "image-labeling",
+              "image-labelling-tool",
+              "label-studio",
+              "labeling",
+              "labeling-tool",
+              "mlops",
+              "semantic-segmentation",
+              "text-annotation",
+              "yolo"
+            ]
           },
           "first_seen": "2026-08-29T01:11:19.407Z"
         },
@@ -42,12 +81,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Always know what to expect from your data.",
+            "homepage": "https://docs.greatexpectations.io/",
             "id": 103071520,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:08:33Z",
+            "open_issues": 31,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11745
+            "stars": 11745,
+            "topics": [
+              "cleandata",
+              "data-engineering",
+              "data-profilers",
+              "data-profiling",
+              "data-quality",
+              "data-science",
+              "data-unit-tests",
+              "datacleaner",
+              "datacleaning",
+              "dataquality",
+              "dataunittest",
+              "eda",
+              "exploratory-analysis",
+              "exploratory-data-analysis",
+              "exploratorydataanalysis",
+              "mlops",
+              "pipeline",
+              "pipeline-debt",
+              "pipeline-testing",
+              "pipeline-tests"
+            ]
           },
           "first_seen": "2026-08-29T01:11:19.407Z"
         },
@@ -58,12 +123,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models",
+            "homepage": "https://www.seldon.io/solutions/core/",
             "id": 114898943,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-23T11:39:54Z",
+            "open_issues": 396,
             "owner": "SeldonIO",
             "repo": "seldon-core",
-            "stars": 4779
+            "stars": 4779,
+            "topics": [
+              "aiops",
+              "deployment",
+              "kubernetes",
+              "machine-learning",
+              "machine-learning-operations",
+              "mlops",
+              "production-machine-learning",
+              "serving"
+            ]
           },
           "first_seen": "2026-08-29T01:11:19.407Z"
         },
@@ -74,12 +153,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Algorithms for outlier, adversarial and drift detection",
+            "homepage": "https://docs.seldon.io/projects/alibi-detect/en/stable/",
             "id": 213390927,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-11T16:35:15Z",
+            "open_issues": 146,
             "owner": "SeldonIO",
             "repo": "alibi-detect",
-            "stars": 2548
+            "stars": 2548,
+            "topics": [
+              "adversarial",
+              "anomaly",
+              "concept-drift",
+              "data-drift",
+              "detection",
+              "drift-detection",
+              "images",
+              "outlier",
+              "semi-supervised-learning",
+              "tabular-data",
+              "text",
+              "time-series",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-29T01:11:19.407Z"
         },
@@ -90,12 +188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library for exploring and validating machine learning data",
+            "homepage": null,
             "id": 139463182,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T20:40:58Z",
+            "open_issues": 16,
             "owner": "tensorflow",
             "repo": "data-validation",
-            "stars": 783
+            "stars": 783,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:19.407Z"
         },
@@ -106,12 +209,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The world's cleanest AutoML library ✨ - Do hyperparameter tuning with the right pipeline abstractions to write clean deep learning production pipelines. Let your pipeline steps have hyperparameter spaces. Design steps in your pipeline like components. Compatible with Scikit-Learn, TensorFlow, and most other libraries, frameworks and MLOps environments.",
+            "homepage": "https://www.neuraxle.org/",
             "id": 177868131,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-20T21:38:30Z",
+            "open_issues": 2,
             "owner": "Neuraxio",
             "repo": "Neuraxle",
-            "stars": 613
+            "stars": 613,
+            "topics": [
+              "deep-learning",
+              "framework",
+              "hyperparameter-optimization",
+              "hyperparameter-search",
+              "hyperparameter-tuning",
+              "hyperparameters",
+              "machine-learning",
+              "neuraxle",
+              "parallel",
+              "pipeline",
+              "pipeline-framework",
+              "python-library",
+              "scikit-learn"
+            ]
           },
           "first_seen": "2026-08-29T01:11:19.407Z"
         },
@@ -122,12 +244,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Accelerate your Neural Architecture Search (NAS) through fast, reproducible and modular research.",
+            "homepage": "https://microsoft.github.io/archai",
             "id": 245036506,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T17:29:32Z",
+            "open_issues": 0,
             "owner": "microsoft",
             "repo": "archai",
-            "stars": 486
+            "stars": 486,
+            "topics": [
+              "automated-machine-learning",
+              "automl",
+              "darts",
+              "deep-learning",
+              "hyperparameter-optimization",
+              "machine-learning",
+              "model-compression",
+              "nas",
+              "neural-architecture-search",
+              "petridish",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-29T01:11:19.407Z"
         },
@@ -138,12 +278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 292792659,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-07T23:44:42Z",
+            "open_issues": 21,
             "owner": "google-research",
             "repo": "robustness_metrics",
-            "stars": 473
+            "stars": 473,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:19.407Z"
         },
@@ -154,12 +299,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A toolkit that streamlines and automates the generation of model cards ",
+            "homepage": "https://www.tensorflow.org/responsible_ai/model_card_toolkit/guide",
             "id": 282271871,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-26T12:05:00Z",
+            "open_issues": 9,
             "owner": "tensorflow",
             "repo": "model-card-toolkit",
-            "stars": 452
+            "stars": 452,
+            "topics": [
+              "deep-learning",
+              "machine-learning",
+              "model-cards",
+              "responsible-ai",
+              "responsible-ml",
+              "tensorflow",
+              "transparency"
+            ]
           },
           "first_seen": "2026-08-29T01:11:19.407Z"
         },
@@ -170,12 +328,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The LinkedIn Fairness Toolkit (LiFT) is a Scala/Spark library that enables the measurement of fairness in large scale machine learning workflows.",
+            "homepage": null,
             "id": 276493242,
             "language": "Scala",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-12-19T11:35:55Z",
+            "open_issues": 1,
             "owner": "linkedin",
             "repo": "LiFT",
-            "stars": 173
+            "stars": 173,
+            "topics": [
+              "fairness",
+              "fairness-ai",
+              "fairness-ml",
+              "linkedin",
+              "machine-learning",
+              "scala",
+              "spark"
+            ]
           },
           "first_seen": "2026-08-29T01:11:19.407Z"
         },
@@ -186,12 +357,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Configure Python functions explicitly and safely ",
+            "homepage": null,
             "id": 210755063,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-11-18T18:40:15Z",
+            "open_issues": 5,
             "owner": "PetrochukM",
             "repo": "HParams",
-            "stars": 131
+            "stars": 131,
+            "topics": [
+              "configuration",
+              "deep-learning",
+              "hyperparameters",
+              "machine-learning",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-29T01:11:19.407Z"
         },
@@ -202,12 +385,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "REVISE: A Tool for Measuring and Mitigating Bias in Visual Datasets --- https://arxiv.org/abs/2004.07999",
+            "homepage": null,
             "id": 256240984,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-08-19T15:22:00Z",
+            "open_issues": 0,
             "owner": "princetonvisualai",
             "repo": "revise-tool",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:19.407Z"
         }
@@ -216,15 +404,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:11:19.407Z",
+    "last_updated": "2026-08-29T04:31:36.563Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
+      "homepage": null,
       "id": 236980532,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-03-26T22:53:29Z",
+      "open_issues": 10,
       "owner": "SE-ML",
       "repo": "awesome-seml",
-      "stars": 1367
+      "stars": 1367,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deep-learning",
+        "machine-learning",
+        "ml-ops",
+        "software-engineering"
+      ]
     },
     "original_repository_sha": "4206c9e6c39bef01f40b33d99c970fccb83b365b",
     "enhanced_repository": "enhansome/enhansome-seml",
