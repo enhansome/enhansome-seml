@@ -15,11 +15,11 @@
             "id": 178626720,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T13:52:56Z",
-            "open_issues": 1081,
+            "last_commit": "2026-09-01T08:55:20Z",
+            "open_issues": 1076,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31314,
+            "stars": 31312,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -44,11 +44,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T21:47:21Z",
-            "open_issues": 930,
+            "last_commit": "2026-09-01T20:10:11Z",
+            "open_issues": 932,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28174,
+            "stars": 28184,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -86,11 +86,11 @@
             "id": 103071520,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T13:15:28Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-01T20:02:27Z",
+            "open_issues": 43,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11760,
+            "stars": 11763,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -132,7 +132,7 @@
             "open_issues": 396,
             "owner": "SeldonIO",
             "repo": "seldon-core",
-            "stars": 4780,
+            "stars": 4779,
             "topics": [
               "aiops",
               "deployment",
@@ -308,7 +308,7 @@
             "open_issues": 9,
             "owner": "tensorflow",
             "repo": "model-card-toolkit",
-            "stars": 452,
+            "stars": 451,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T22:04:16.965Z",
+    "last_updated": "2026-09-01T20:10:35.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
