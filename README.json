@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-01T08:55:20Z",
-            "open_issues": 1076,
+            "open_issues": 1078,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31313,
+            "stars": 31316,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -44,11 +44,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T16:49:17Z",
-            "open_issues": 933,
+            "last_commit": "2026-09-03T08:01:38Z",
+            "open_issues": 935,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28190,
+            "stars": 28195,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -86,11 +86,11 @@
             "id": 103071520,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T19:33:50Z",
+            "last_commit": "2026-09-03T10:56:55Z",
             "open_issues": 46,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11765,
+            "stars": 11768,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T20:08:22.293Z",
+    "last_updated": "2026-09-03T20:09:32.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
