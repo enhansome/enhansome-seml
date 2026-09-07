@@ -15,11 +15,11 @@
             "id": 178626720,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T08:55:20Z",
+            "last_commit": "2026-09-07T08:46:39Z",
             "open_issues": 1081,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31319,
+            "stars": 31323,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -44,11 +44,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T13:02:17Z",
-            "open_issues": 938,
+            "last_commit": "2026-09-07T15:23:06Z",
+            "open_issues": 940,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28222,
+            "stars": 28231,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -86,11 +86,11 @@
             "id": 103071520,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T12:09:38Z",
-            "open_issues": 42,
+            "last_commit": "2026-09-07T15:12:18Z",
+            "open_issues": 43,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11770,
+            "stars": 11774,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -132,7 +132,7 @@
             "open_issues": 396,
             "owner": "SeldonIO",
             "repo": "seldon-core",
-            "stars": 4778,
+            "stars": 4779,
             "topics": [
               "aiops",
               "deployment",
@@ -162,7 +162,7 @@
             "open_issues": 146,
             "owner": "SeldonIO",
             "repo": "alibi-detect",
-            "stars": 2548,
+            "stars": 2549,
             "topics": [
               "adversarial",
               "anomaly",
@@ -197,7 +197,7 @@
             "open_issues": 16,
             "owner": "tensorflow",
             "repo": "data-validation",
-            "stars": 784,
+            "stars": 785,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:19.407Z"
@@ -366,7 +366,7 @@
             "open_issues": 5,
             "owner": "PetrochukM",
             "repo": "HParams",
-            "stars": 131,
+            "stars": 130,
             "topics": [
               "configuration",
               "deep-learning",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T19:37:11.823Z",
+    "last_updated": "2026-09-07T20:48:36.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
