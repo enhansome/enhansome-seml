@@ -15,11 +15,11 @@
             "id": 178626720,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T08:46:39Z",
+            "last_commit": "2026-09-10T09:39:52Z",
             "open_issues": 1088,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31326,
+            "stars": 31332,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -44,11 +44,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T19:03:47Z",
-            "open_issues": 941,
+            "last_commit": "2026-09-10T19:30:35Z",
+            "open_issues": 942,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28238,
+            "stars": 28240,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -86,11 +86,11 @@
             "id": 103071520,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T15:35:47Z",
-            "open_issues": 40,
+            "last_commit": "2026-09-10T16:22:39Z",
+            "open_issues": 36,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11778,
+            "stars": 11780,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -162,7 +162,7 @@
             "open_issues": 146,
             "owner": "SeldonIO",
             "repo": "alibi-detect",
-            "stars": 2548,
+            "stars": 2549,
             "topics": [
               "adversarial",
               "anomaly",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T20:03:58.840Z",
+    "last_updated": "2026-09-10T20:06:57.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
@@ -416,7 +416,7 @@
       "open_issues": 10,
       "owner": "SE-ML",
       "repo": "awesome-seml",
-      "stars": 1367,
+      "stars": 1368,
       "topics": [
         "awesome",
         "awesome-list",

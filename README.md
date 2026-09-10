@@ -92,7 +92,7 @@ How to deploy and operate your models in a production environment.
 How to organize teams and projects to ensure effective collaboration and accountability.
 
 * [Data Scientists in Software Teams: State of the Art and Challenges](http://web.cs.ucla.edu/~miryung/Publications/tse2017-datascientists.pdf) 🎓
-* [Machine Learning Interviews](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf) ⭐ 10,588 | 🐛 11 | 🌐 HTML | 📅 2023-04-15
+* [Machine Learning Interviews](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf) ⭐ 10,590 | 🐛 11 | 🌐 HTML | 📅 2023-04-15
 * [Managing Machine Learning Projects](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf)
 * [Principled Machine Learning: Practices and Tools for Efficient Collaboration](https://dev.to/robogeek/principled-machine-learning-4eho)
 
@@ -113,11 +113,11 @@ Tooling can make your life easier.
 
 We only share open source tools, or commercial platforms that offer substantial free packages for research.
 
-* [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) ⭐ 31,326 | 🐛 1,088 | 🌐 Python | 📅 2026-09-07 - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
-* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,238 | 🐛 941 | 🌐 TypeScript | 📅 2026-09-09 - A multi-type data labeling and annotation tool with standardized output format.
-* [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,778 | 🐛 40 | 🌐 Python | 📅 2026-09-09 - Data validation and testing with integration in pipelines.
+* [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) ⭐ 31,332 | 🐛 1,088 | 🌐 Python | 📅 2026-09-10 - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,240 | 🐛 942 | 🌐 TypeScript | 📅 2026-09-10 - A multi-type data labeling and annotation tool with standardized output format.
+* [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,780 | 🐛 36 | 🌐 Python | 📅 2026-09-10 - Data validation and testing with integration in pipelines.
 * [Seldon Core](https://github.com/SeldonIO/seldon-core) ⭐ 4,779 | 🐛 396 | 🌐 Go | 📅 2026-03-23 - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models on Kubernetes.
-* [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,548 | 🐛 146 | 🌐 Jupyter Notebook | 📅 2025-12-11 - Python library focused on outlier, adversarial and drift detection.
+* [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,549 | 🐛 146 | 🌐 Jupyter Notebook | 📅 2025-12-11 - Python library focused on outlier, adversarial and drift detection.
 * [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation) ⭐ 785 | 🐛 16 | 🌐 Python | 📅 2026-08-14 - Library for exploring and validating machine learning data. Similar to Great Expectations, but for Tensorflow data.
 * [Neuraxle](https://github.com/Neuraxio/Neuraxle) ⭐ 612 | 🐛 2 | 🌐 Python | 📅 2026-02-20 -  Sklearn-like framework for hyperparameter tuning and AutoML in deep learning projects.
 * [Archai](https://github.com/microsoft/archai) ⭐ 486 | 🐛 1 | 🌐 Python | 📅 2026-08-31 - Neural architecture search.
@@ -147,4 +147,4 @@ Contributions welcomed! Read the [contribution guidelines](contributing.md) firs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
