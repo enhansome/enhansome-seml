@@ -15,11 +15,11 @@
             "id": 178626720,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T17:44:09Z",
+            "last_commit": "2026-09-17T08:37:45Z",
             "open_issues": 1085,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31346,
+            "stars": 31349,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -44,11 +44,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T20:14:40Z",
+            "last_commit": "2026-09-17T20:11:14Z",
             "open_issues": 947,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28278,
+            "stars": 28287,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -86,11 +86,11 @@
             "id": 103071520,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T08:21:16Z",
-            "open_issues": 41,
+            "last_commit": "2026-09-17T19:21:33Z",
+            "open_issues": 45,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11796,
+            "stars": 11797,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T20:27:52.992Z",
+    "last_updated": "2026-09-17T20:35:21.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
@@ -416,7 +416,7 @@
       "open_issues": 10,
       "owner": "SE-ML",
       "repo": "awesome-seml",
-      "stars": 1369,
+      "stars": 1370,
       "topics": [
         "awesome",
         "awesome-list",
