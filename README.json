@@ -15,11 +15,11 @@
             "id": 178626720,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T08:37:45Z",
-            "open_issues": 1087,
+            "last_commit": "2026-09-21T11:44:30Z",
+            "open_issues": 1085,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31357,
+            "stars": 31356,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -44,11 +44,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T13:32:40Z",
+            "last_commit": "2026-09-21T19:00:33Z",
             "open_issues": 950,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28303,
+            "stars": 28317,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -87,10 +87,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T20:14:23Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11818,
+            "stars": 11823,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -132,7 +132,7 @@
             "open_issues": 396,
             "owner": "SeldonIO",
             "repo": "seldon-core",
-            "stars": 4780,
+            "stars": 4782,
             "topics": [
               "aiops",
               "deployment",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T19:50:37.821Z",
+    "last_updated": "2026-09-21T21:15:36.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
