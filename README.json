@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-21T11:44:30Z",
-            "open_issues": 1101,
+            "open_issues": 1104,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31373,
+            "stars": 31376,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -48,7 +48,7 @@
             "open_issues": 947,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28397,
+            "stars": 28400,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -87,10 +87,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T16:43:53Z",
-            "open_issues": 60,
+            "open_issues": 64,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11856,
+            "stars": 11859,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -253,7 +253,7 @@
             "open_issues": 0,
             "owner": "microsoft",
             "repo": "archai",
-            "stars": 486,
+            "stars": 487,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T20:13:53.715Z",
+    "last_updated": "2026-10-04T20:29:54.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
