@@ -92,7 +92,7 @@ How to deploy and operate your models in a production environment.
 How to organize teams and projects to ensure effective collaboration and accountability.
 
 * [Data Scientists in Software Teams: State of the Art and Challenges](http://web.cs.ucla.edu/~miryung/Publications/tse2017-datascientists.pdf) 🎓
-* [Machine Learning Interviews](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf) ⭐ 10,694 | 🐛 11 | 🌐 HTML | 📅 2023-04-15
+* [Machine Learning Interviews](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf) ⭐ 10,695 | 🐛 11 | 🌐 HTML | 📅 2023-04-15
 * [Managing Machine Learning Projects](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf)
 * [Principled Machine Learning: Practices and Tools for Efficient Collaboration](https://dev.to/robogeek/principled-machine-learning-4eho)
 
@@ -113,17 +113,17 @@ Tooling can make your life easier.
 
 We only share open source tools, or commercial platforms that offer substantial free packages for research.
 
-* [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) ⭐ 31,378 | 🐛 1,104 | 🌐 Python | 📅 2026-09-21 - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
-* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,401 | 🐛 948 | 🌐 TypeScript | 📅 2026-10-05 - A multi-type data labeling and annotation tool with standardized output format.
-* [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,859 | 🐛 56 | 🌐 Python | 📅 2026-10-05 - Data validation and testing with integration in pipelines.
-* [Seldon Core](https://github.com/SeldonIO/seldon-core) ⭐ 4,781 | 🐛 396 | 🌐 Go | 📅 2026-03-23 - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models on Kubernetes.
+* [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) ⭐ 31,381 | 🐛 1,103 | 🌐 Python | 📅 2026-10-05 - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,407 | 🐛 949 | 🌐 TypeScript | 📅 2026-10-06 - A multi-type data labeling and annotation tool with standardized output format.
+* [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,862 | 🐛 53 | 🌐 Python | 📅 2026-10-06 - Data validation and testing with integration in pipelines.
+* [Seldon Core](https://github.com/SeldonIO/seldon-core) ⭐ 4,782 | 🐛 396 | 🌐 Go | 📅 2026-03-23 - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models on Kubernetes.
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,546 | 🐛 149 | 🌐 Jupyter Notebook | 📅 2025-12-11 - Python library focused on outlier, adversarial and drift detection.
 * [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation) ⭐ 785 | 🐛 16 | 🌐 Python | 📅 2026-08-14 - Library for exploring and validating machine learning data. Similar to Great Expectations, but for Tensorflow data.
 * [Neuraxle](https://github.com/Neuraxio/Neuraxle) ⭐ 612 | 🐛 2 | 🌐 Python | 📅 2026-02-20 -  Sklearn-like framework for hyperparameter tuning and AutoML in deep learning projects.
 * [Archai](https://github.com/microsoft/archai) ⭐ 487 | 🐛 1 | 🌐 Python | 📅 2026-10-05 - Neural architecture search.
 * [Robustness Metrics](https://github.com/google-research/robustness_metrics) ⭐ 473 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2026-10-05 - Lightweight modules to evaluate the robustness of classification models.
 * [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) ⚠️ Archived - Streamlines and automates the generation of model cards; for model documentation.
-* [LiFT](https://github.com/linkedin/LiFT) ⭐ 172 | 🐛 1 | 🌐 Scala | 📅 2025-12-19 - Linkedin fairness toolkit.
+* [LiFT](https://github.com/linkedin/LiFT) ⭐ 173 | 🐛 1 | 🌐 Scala | 📅 2025-12-19 - Linkedin fairness toolkit.
 * [HParams](https://github.com/PetrochukM/HParams) ⭐ 130 | 🐛 5 | 🌐 Python | 📅 2024-11-18 - A thoughtful approach to configuration management for machine learning projects.
 * [REVISE: REvealing VIsual biaSEs](https://github.com/princetonvisualai/revise-tool) ⭐ 109 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-08-19 - Automatically detect bias in visual data sets.
 * [Aim](https://aimstack.io) - Aim is an open source experiment tracking tool.
@@ -147,4 +147,4 @@ Contributions welcomed! Read the [contribution guidelines](contributing.md) firs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

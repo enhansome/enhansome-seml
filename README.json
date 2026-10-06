@@ -15,11 +15,11 @@
             "id": 178626720,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T11:44:30Z",
-            "open_issues": 1104,
+            "last_commit": "2026-10-05T23:26:42Z",
+            "open_issues": 1103,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31378,
+            "stars": 31381,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -44,11 +44,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T19:16:12Z",
-            "open_issues": 948,
+            "last_commit": "2026-10-06T10:37:17Z",
+            "open_issues": 949,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28401,
+            "stars": 28407,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -86,11 +86,11 @@
             "id": 103071520,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T22:25:39Z",
-            "open_issues": 56,
+            "last_commit": "2026-10-06T10:19:51Z",
+            "open_issues": 53,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11859,
+            "stars": 11862,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -132,7 +132,7 @@
             "open_issues": 396,
             "owner": "SeldonIO",
             "repo": "seldon-core",
-            "stars": 4781,
+            "stars": 4782,
             "topics": [
               "aiops",
               "deployment",
@@ -337,7 +337,7 @@
             "open_issues": 1,
             "owner": "linkedin",
             "repo": "LiFT",
-            "stars": 172,
+            "stars": 173,
             "topics": [
               "fairness",
               "fairness-ai",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:22:39.863Z",
+    "last_updated": "2026-10-06T10:41:39.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
