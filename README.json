@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-12T10:54:14Z",
-            "open_issues": 1120,
+            "open_issues": 1121,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31398,
+            "stars": 31403,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -44,11 +44,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T23:25:35Z",
-            "open_issues": 954,
+            "last_commit": "2026-10-13T20:11:07Z",
+            "open_issues": 951,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28452,
+            "stars": 28458,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -86,11 +86,11 @@
             "id": 103071520,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T15:44:46Z",
-            "open_issues": 51,
+            "last_commit": "2026-10-13T12:31:08Z",
+            "open_issues": 53,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11870,
+            "stars": 11871,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -132,7 +132,7 @@
             "open_issues": 396,
             "owner": "SeldonIO",
             "repo": "seldon-core",
-            "stars": 4783,
+            "stars": 4784,
             "topics": [
               "aiops",
               "deployment",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:49:18.319Z",
+    "last_updated": "2026-10-13T21:59:34.255Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
