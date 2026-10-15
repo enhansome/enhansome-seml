@@ -113,10 +113,10 @@ Tooling can make your life easier.
 
 We only share open source tools, or commercial platforms that offer substantial free packages for research.
 
-* [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) ⭐ 31,407 | 🐛 1,122 | 🌐 Python | 📅 2026-10-12 - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
-* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,461 | 🐛 951 | 🌐 TypeScript | 📅 2026-10-14 - A multi-type data labeling and annotation tool with standardized output format.
-* [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,872 | 🐛 53 | 🌐 Python | 📅 2026-10-14 - Data validation and testing with integration in pipelines.
-* [Seldon Core](https://github.com/SeldonIO/seldon-core) ⭐ 4,784 | 🐛 396 | 🌐 Go | 📅 2026-03-23 - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models on Kubernetes.
+* [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) ⭐ 31,409 | 🐛 1,123 | 🌐 Python | 📅 2026-10-12 - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,471 | 🐛 951 | 🌐 TypeScript | 📅 2026-10-15 - A multi-type data labeling and annotation tool with standardized output format.
+* [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,874 | 🐛 52 | 🌐 Python | 📅 2026-10-14 - Data validation and testing with integration in pipelines.
+* [Seldon Core](https://github.com/SeldonIO/seldon-core) ⭐ 4,785 | 🐛 396 | 🌐 Go | 📅 2026-03-23 - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models on Kubernetes.
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,548 | 🐛 150 | 🌐 Jupyter Notebook | 📅 2025-12-11 - Python library focused on outlier, adversarial and drift detection.
 * [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation) ⭐ 786 | 🐛 16 | 🌐 Python | 📅 2026-08-14 - Library for exploring and validating machine learning data. Similar to Great Expectations, but for Tensorflow data.
 * [Neuraxle](https://github.com/Neuraxio/Neuraxle) ⭐ 612 | 🐛 2 | 🌐 Python | 📅 2026-02-20 -  Sklearn-like framework for hyperparameter tuning and AutoML in deep learning projects.
@@ -147,4 +147,4 @@ Contributions welcomed! Read the [contribution guidelines](contributing.md) firs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
