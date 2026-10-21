@@ -92,7 +92,7 @@ How to deploy and operate your models in a production environment.
 How to organize teams and projects to ensure effective collaboration and accountability.
 
 * [Data Scientists in Software Teams: State of the Art and Challenges](http://web.cs.ucla.edu/~miryung/Publications/tse2017-datascientists.pdf) 🎓
-* [Machine Learning Interviews](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf) ⭐ 10,706 | 🐛 11 | 🌐 HTML | 📅 2023-04-15
+* [Machine Learning Interviews](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf) ⭐ 10,707 | 🐛 11 | 🌐 HTML | 📅 2023-04-15
 * [Managing Machine Learning Projects](https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf)
 * [Principled Machine Learning: Practices and Tools for Efficient Collaboration](https://dev.to/robogeek/principled-machine-learning-4eho)
 
@@ -113,13 +113,13 @@ Tooling can make your life easier.
 
 We only share open source tools, or commercial platforms that offer substantial free packages for research.
 
-* [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) ⭐ 31,423 | 🐛 1,132 | 🌐 Python | 📅 2026-10-12 - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
-* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,504 | 🐛 956 | 🌐 TypeScript | 📅 2026-10-20 - A multi-type data labeling and annotation tool with standardized output format.
-* [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,887 | 🐛 56 | 🌐 Python | 📅 2026-10-20 - Data validation and testing with integration in pipelines.
-* [Seldon Core](https://github.com/SeldonIO/seldon-core) ⭐ 4,785 | 🐛 396 | 🌐 Go | 📅 2026-03-23 - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models on Kubernetes.
-* [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,550 | 🐛 150 | 🌐 Jupyter Notebook | 📅 2025-12-11 - Python library focused on outlier, adversarial and drift detection.
+* [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) ⭐ 31,421 | 🐛 1,137 | 🌐 Python | 📅 2026-10-12 - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,515 | 🐛 957 | 🌐 TypeScript | 📅 2026-10-21 - A multi-type data labeling and annotation tool with standardized output format.
+* [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,890 | 🐛 58 | 🌐 Python | 📅 2026-10-21 - Data validation and testing with integration in pipelines.
+* [Seldon Core](https://github.com/SeldonIO/seldon-core) ⭐ 4,786 | 🐛 396 | 🌐 Go | 📅 2026-03-23 - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models on Kubernetes.
+* [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,550 | 🐛 151 | 🌐 Jupyter Notebook | 📅 2025-12-11 - Python library focused on outlier, adversarial and drift detection.
 * [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation) ⭐ 786 | 🐛 15 | 🌐 Python | 📅 2026-08-14 - Library for exploring and validating machine learning data. Similar to Great Expectations, but for Tensorflow data.
-* [Neuraxle](https://github.com/Neuraxio/Neuraxle) ⭐ 612 | 🐛 2 | 🌐 Python | 📅 2026-02-20 -  Sklearn-like framework for hyperparameter tuning and AutoML in deep learning projects.
+* [Neuraxle](https://github.com/Neuraxio/Neuraxle) ⭐ 612 | 🐛 3 | 🌐 Python | 📅 2026-02-20 -  Sklearn-like framework for hyperparameter tuning and AutoML in deep learning projects.
 * [Archai](https://github.com/microsoft/archai) ⭐ 487 | 🐛 3 | 🌐 Python | 📅 2026-10-05 - Neural architecture search.
 * [Robustness Metrics](https://github.com/google-research/robustness_metrics) ⭐ 474 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2026-10-05 - Lightweight modules to evaluate the robustness of classification models.
 * [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) ⚠️ Archived - Streamlines and automates the generation of model cards; for model documentation.
@@ -147,4 +147,4 @@ Contributions welcomed! Read the [contribution guidelines](contributing.md) firs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
