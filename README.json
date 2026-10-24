@@ -19,7 +19,7 @@
             "open_issues": 1146,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31426,
+            "stars": 31428,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -44,8 +44,8 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T17:05:11Z",
-            "open_issues": 958,
+            "last_commit": "2026-10-23T22:20:07Z",
+            "open_issues": 959,
             "owner": "HumanSignal",
             "repo": "label-studio",
             "stars": 28541,
@@ -87,10 +87,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-22T21:40:54Z",
-            "open_issues": 55,
+            "open_issues": 57,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11897,
+            "stars": 11899,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -132,7 +132,7 @@
             "open_issues": 396,
             "owner": "SeldonIO",
             "repo": "seldon-core",
-            "stars": 4786,
+            "stars": 4785,
             "topics": [
               "aiops",
               "deployment",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:40:26.043Z",
+    "last_updated": "2026-10-24T19:51:46.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
