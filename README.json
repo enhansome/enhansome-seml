@@ -15,11 +15,11 @@
             "id": 178626720,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T01:15:22Z",
-            "open_issues": 1160,
+            "last_commit": "2026-10-30T08:08:36Z",
+            "open_issues": 1168,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31433,
+            "stars": 31434,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -44,11 +44,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T21:27:16Z",
+            "last_commit": "2026-10-30T21:28:26Z",
             "open_issues": 959,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28584,
+            "stars": 28590,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -86,11 +86,11 @@
             "id": 103071520,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T21:40:54Z",
+            "last_commit": "2026-10-30T04:29:02Z",
             "open_issues": 59,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11908,
+            "stars": 11912,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -162,7 +162,7 @@
             "open_issues": 151,
             "owner": "SeldonIO",
             "repo": "alibi-detect",
-            "stars": 2553,
+            "stars": 2554,
             "topics": [
               "adversarial",
               "anomaly",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T22:02:55.996Z",
+    "last_updated": "2026-10-30T21:42:07.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
