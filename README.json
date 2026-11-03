@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T08:08:36Z",
-            "open_issues": 1196,
+            "open_issues": 1200,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31439,
+            "stars": 31440,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -44,11 +44,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T23:02:12Z",
-            "open_issues": 959,
+            "last_commit": "2026-11-03T22:29:17Z",
+            "open_issues": 960,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28615,
+            "stars": 28619,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -129,10 +129,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-03-23T11:39:54Z",
-            "open_issues": 396,
+            "open_issues": 395,
             "owner": "SeldonIO",
             "repo": "seldon-core",
-            "stars": 4784,
+            "stars": 4785,
             "topics": [
               "aiops",
               "deployment",
@@ -249,8 +249,8 @@
             "id": 245036506,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T12:48:05Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-03T17:03:55Z",
+            "open_issues": 1,
             "owner": "microsoft",
             "repo": "archai",
             "stars": 487,
@@ -287,7 +287,7 @@
             "open_issues": 23,
             "owner": "google-research",
             "repo": "robustness_metrics",
-            "stars": 474,
+            "stars": 475,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:19.407Z"
@@ -308,7 +308,7 @@
             "open_issues": 9,
             "owner": "tensorflow",
             "repo": "model-card-toolkit",
-            "stars": 451,
+            "stars": 450,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T00:04:31.299Z",
+    "last_updated": "2026-11-03T22:34:47.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
