@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T08:08:36Z",
-            "open_issues": 1214,
+            "open_issues": 1220,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31447,
+            "stars": 31446,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -44,11 +44,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T16:56:23Z",
-            "open_issues": 963,
+            "last_commit": "2026-11-10T00:07:18Z",
+            "open_issues": 966,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28653,
+            "stars": 28663,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -86,11 +86,11 @@
             "id": 103071520,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T16:06:15Z",
-            "open_issues": 59,
+            "last_commit": "2026-11-09T10:25:22Z",
+            "open_issues": 62,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11919,
+            "stars": 11922,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -197,7 +197,7 @@
             "open_issues": 15,
             "owner": "tensorflow",
             "repo": "data-validation",
-            "stars": 786,
+            "stars": 787,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:19.407Z"
@@ -218,7 +218,7 @@
             "open_issues": 3,
             "owner": "Neuraxio",
             "repo": "Neuraxle",
-            "stars": 612,
+            "stars": 613,
             "topics": [
               "deep-learning",
               "framework",
@@ -253,7 +253,7 @@
             "open_issues": 1,
             "owner": "microsoft",
             "repo": "archai",
-            "stars": 488,
+            "stars": 489,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:22:55.464Z",
+    "last_updated": "2026-11-10T00:52:19.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
