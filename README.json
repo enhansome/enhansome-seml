@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T08:08:36Z",
-            "open_issues": 1220,
+            "open_issues": 1225,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31446,
+            "stars": 31448,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -44,11 +44,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T00:07:18Z",
-            "open_issues": 966,
+            "last_commit": "2026-11-10T18:44:52Z",
+            "open_issues": 962,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28663,
+            "stars": 28670,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -86,11 +86,11 @@
             "id": 103071520,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T10:25:22Z",
-            "open_issues": 62,
+            "last_commit": "2026-11-10T17:49:22Z",
+            "open_issues": 44,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11922,
+            "stars": 11925,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -253,7 +253,7 @@
             "open_issues": 1,
             "owner": "microsoft",
             "repo": "archai",
-            "stars": 489,
+            "stars": 490,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:52:19.203Z",
+    "last_updated": "2026-11-10T22:34:15.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
