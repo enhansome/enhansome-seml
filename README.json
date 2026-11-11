@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T08:08:36Z",
-            "open_issues": 1225,
+            "open_issues": 1230,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31448,
+            "stars": 31449,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -44,11 +44,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T18:44:52Z",
-            "open_issues": 962,
+            "last_commit": "2026-11-11T17:16:57Z",
+            "open_issues": 961,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28670,
+            "stars": 28681,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -86,8 +86,8 @@
             "id": 103071520,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T17:49:22Z",
-            "open_issues": 44,
+            "last_commit": "2026-11-11T14:15:02Z",
+            "open_issues": 45,
             "owner": "fivetran",
             "repo": "great_expectations",
             "stars": 11925,
@@ -162,7 +162,7 @@
             "open_issues": 151,
             "owner": "SeldonIO",
             "repo": "alibi-detect",
-            "stars": 2555,
+            "stars": 2556,
             "topics": [
               "adversarial",
               "anomaly",
@@ -308,7 +308,7 @@
             "open_issues": 9,
             "owner": "tensorflow",
             "repo": "model-card-toolkit",
-            "stars": 450,
+            "stars": 449,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:34:15.351Z",
+    "last_updated": "2026-11-11T23:43:28.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
