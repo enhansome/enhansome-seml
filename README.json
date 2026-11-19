@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-16T01:15:17Z",
-            "open_issues": 1273,
+            "open_issues": 1277,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31451,
+            "stars": 31465,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -44,11 +44,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T20:47:56Z",
-            "open_issues": 986,
+            "last_commit": "2026-11-19T22:54:00Z",
+            "open_issues": 987,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28729,
+            "stars": 28731,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -90,7 +90,7 @@
             "open_issues": 46,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11946,
+            "stars": 11942,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -132,7 +132,7 @@
             "open_issues": 395,
             "owner": "SeldonIO",
             "repo": "seldon-core",
-            "stars": 4782,
+            "stars": 4781,
             "topics": [
               "aiops",
               "deployment",
@@ -162,7 +162,7 @@
             "open_issues": 153,
             "owner": "SeldonIO",
             "repo": "alibi-detect",
-            "stars": 2555,
+            "stars": 2553,
             "topics": [
               "adversarial",
               "anomaly",
@@ -197,7 +197,7 @@
             "open_issues": 15,
             "owner": "tensorflow",
             "repo": "data-validation",
-            "stars": 787,
+            "stars": 786,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:19.407Z"
@@ -218,7 +218,7 @@
             "open_issues": 3,
             "owner": "Neuraxio",
             "repo": "Neuraxle",
-            "stars": 613,
+            "stars": 612,
             "topics": [
               "deep-learning",
               "framework",
@@ -253,7 +253,7 @@
             "open_issues": 1,
             "owner": "microsoft",
             "repo": "archai",
-            "stars": 490,
+            "stars": 488,
             "topics": [
               "automated-machine-learning",
               "automl",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:37:05.526Z",
+    "last_updated": "2026-11-19T23:55:00.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
@@ -416,7 +416,7 @@
       "open_issues": 9,
       "owner": "SE-ML",
       "repo": "awesome-seml",
-      "stars": 1377,
+      "stars": 1376,
       "topics": [
         "awesome",
         "awesome-list",

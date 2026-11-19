@@ -113,14 +113,14 @@ Tooling can make your life easier.
 
 We only share open source tools, or commercial platforms that offer substantial free packages for research.
 
-* [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) ⭐ 31,451 | 🐛 1,273 | 🌐 Python | 📅 2026-11-16 - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
-* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,729 | 🐛 986 | 🌐 TypeScript | 📅 2026-11-18 - A multi-type data labeling and annotation tool with standardized output format.
-* [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,946 | 🐛 46 | 🌐 Python | 📅 2026-11-17 - Data validation and testing with integration in pipelines.
-* [Seldon Core](https://github.com/SeldonIO/seldon-core) ⭐ 4,782 | 🐛 395 | 🌐 Go | 📅 2026-03-23 - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models on Kubernetes.
-* [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,555 | 🐛 153 | 🌐 Jupyter Notebook | 📅 2025-12-11 - Python library focused on outlier, adversarial and drift detection.
-* [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation) ⭐ 787 | 🐛 15 | 🌐 Python | 📅 2026-08-14 - Library for exploring and validating machine learning data. Similar to Great Expectations, but for Tensorflow data.
-* [Neuraxle](https://github.com/Neuraxio/Neuraxle) ⭐ 613 | 🐛 3 | 🌐 Python | 📅 2026-02-20 -  Sklearn-like framework for hyperparameter tuning and AutoML in deep learning projects.
-* [Archai](https://github.com/microsoft/archai) ⭐ 490 | 🐛 1 | 🌐 Python | 📅 2026-11-16 - Neural architecture search.
+* [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) ⭐ 31,465 | 🐛 1,277 | 🌐 Python | 📅 2026-11-16 - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,731 | 🐛 987 | 🌐 TypeScript | 📅 2026-11-19 - A multi-type data labeling and annotation tool with standardized output format.
+* [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,942 | 🐛 46 | 🌐 Python | 📅 2026-11-17 - Data validation and testing with integration in pipelines.
+* [Seldon Core](https://github.com/SeldonIO/seldon-core) ⭐ 4,781 | 🐛 395 | 🌐 Go | 📅 2026-03-23 - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models on Kubernetes.
+* [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,553 | 🐛 153 | 🌐 Jupyter Notebook | 📅 2025-12-11 - Python library focused on outlier, adversarial and drift detection.
+* [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation) ⭐ 786 | 🐛 15 | 🌐 Python | 📅 2026-08-14 - Library for exploring and validating machine learning data. Similar to Great Expectations, but for Tensorflow data.
+* [Neuraxle](https://github.com/Neuraxio/Neuraxle) ⭐ 612 | 🐛 3 | 🌐 Python | 📅 2026-02-20 -  Sklearn-like framework for hyperparameter tuning and AutoML in deep learning projects.
+* [Archai](https://github.com/microsoft/archai) ⭐ 488 | 🐛 1 | 🌐 Python | 📅 2026-11-16 - Neural architecture search.
 * [Robustness Metrics](https://github.com/google-research/robustness_metrics) ⭐ 475 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2026-10-05 - Lightweight modules to evaluate the robustness of classification models.
 * [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) ⚠️ Archived - Streamlines and automates the generation of model cards; for model documentation.
 * [LiFT](https://github.com/linkedin/LiFT) ⭐ 173 | 🐛 1 | 🌐 Scala | 📅 2025-12-19 - Linkedin fairness toolkit.
@@ -147,4 +147,4 @@ Contributions welcomed! Read the [contribution guidelines](contributing.md) firs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
