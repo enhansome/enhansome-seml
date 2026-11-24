@@ -113,9 +113,9 @@ Tooling can make your life easier.
 
 We only share open source tools, or commercial platforms that offer substantial free packages for research.
 
-* [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) ⭐ 31,469 | 🐛 1,284 | 🌐 Python | 📅 2026-11-16 - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
-* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,745 | 🐛 989 | 🌐 TypeScript | 📅 2026-11-20 - A multi-type data labeling and annotation tool with standardized output format.
-* [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,943 | 🐛 48 | 🌐 Python | 📅 2026-11-17 - Data validation and testing with integration in pipelines.
+* [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) ⭐ 31,463 | 🐛 1,282 | 🌐 Python | 📅 2026-11-23 - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+* [Label Studio](https://github.com/heartexlabs/label-studio) ⭐ 28,747 | 🐛 991 | 🌐 TypeScript | 📅 2026-11-24 - A multi-type data labeling and annotation tool with standardized output format.
+* [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,945 | 🐛 50 | 🌐 Python | 📅 2026-11-17 - Data validation and testing with integration in pipelines.
 * [Seldon Core](https://github.com/SeldonIO/seldon-core) ⭐ 4,781 | 🐛 395 | 🌐 Go | 📅 2026-03-23 - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models on Kubernetes.
 * [Alibi Detect](https://github.com/SeldonIO/alibi-detect) ⭐ 2,553 | 🐛 153 | 🌐 Jupyter Notebook | 📅 2025-12-11 - Python library focused on outlier, adversarial and drift detection.
 * [Tensorflow Data Validation (TFDV)](https://github.com/tensorflow/data-validation) ⭐ 786 | 🐛 15 | 🌐 Python | 📅 2026-08-14 - Library for exploring and validating machine learning data. Similar to Great Expectations, but for Tensorflow data.
@@ -123,7 +123,7 @@ We only share open source tools, or commercial platforms that offer substantial 
 * [Archai](https://github.com/microsoft/archai) ⭐ 488 | 🐛 1 | 🌐 Python | 📅 2026-11-16 - Neural architecture search.
 * [Robustness Metrics](https://github.com/google-research/robustness_metrics) ⭐ 475 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2026-10-05 - Lightweight modules to evaluate the robustness of classification models.
 * [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) ⚠️ Archived - Streamlines and automates the generation of model cards; for model documentation.
-* [LiFT](https://github.com/linkedin/LiFT) ⭐ 173 | 🐛 1 | 🌐 Scala | 📅 2025-12-19 - Linkedin fairness toolkit.
+* [LiFT](https://github.com/linkedin/LiFT) ⭐ 174 | 🐛 1 | 🌐 Scala | 📅 2025-12-19 - Linkedin fairness toolkit.
 * [HParams](https://github.com/PetrochukM/HParams) ⭐ 130 | 🐛 5 | 🌐 Python | 📅 2024-11-18 - A thoughtful approach to configuration management for machine learning projects.
 * [REVISE: REvealing VIsual biaSEs](https://github.com/princetonvisualai/revise-tool) ⭐ 109 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-08-19 - Automatically detect bias in visual data sets.
 * [Aim](https://aimstack.io) - Aim is an open source experiment tracking tool.
@@ -147,4 +147,4 @@ Contributions welcomed! Read the [contribution guidelines](contributing.md) firs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
