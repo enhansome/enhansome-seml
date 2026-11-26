@@ -15,11 +15,11 @@
             "id": 178626720,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T16:45:44Z",
-            "open_issues": 1280,
+            "last_commit": "2026-11-25T15:26:13Z",
+            "open_issues": 1268,
             "owner": "Lightning-AI",
             "repo": "pytorch-lightning",
-            "stars": 31464,
+            "stars": 31465,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -44,11 +44,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T00:07:40Z",
-            "open_issues": 989,
+            "last_commit": "2026-11-26T00:07:33Z",
+            "open_issues": 988,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28761,
+            "stars": 28768,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -87,10 +87,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-17T09:02:44Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11947,
+            "stars": 11948,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -162,7 +162,7 @@
             "open_issues": 153,
             "owner": "SeldonIO",
             "repo": "alibi-detect",
-            "stars": 2552,
+            "stars": 2553,
             "topics": [
               "adversarial",
               "anomaly",
@@ -404,7 +404,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T01:38:18.470Z",
+    "last_updated": "2026-11-26T01:11:11.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of articles that cover the software engineering best practices for building machine learning applications.",
